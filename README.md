@@ -18,6 +18,16 @@
       - Elementos um ao lado do outro
       - Width e height NÃO são respeitados
       - Padding, margin, border funcionam somente na horizontal
+  - **Margin**
+    - propriedades: margin-top, margin-right, margin-bottom, margin-left
+    - valores: length, percentagem, auto
+    - auto: por padão ajusta marens laterais
+    - margin collapys: quando a margin bottom sobrepõe o margin top
+    - shorthand (agrupamento):
+      - maring: 12px(top) 12px(right) 0(bottom) 12px(left);
+      - margin: 12px(top) 10px(right-left) 0(bottom);
+      - margin: 8px(top-bottom) 10px(right-left);
+      - margin: 10px(todos lados)
 
   
 </details>
