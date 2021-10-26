@@ -37,7 +37,26 @@
       - padding: 12px(top) 10px(right-left) 0(bottom);
       - padding: 8px(top-bottom) 10px(right-left);
       - padding: 10px(todos lados)
-
+  - **Border e outline**
+    - valores:
+      - border-style: solid | dotted | dashed | double | groove | ridge | inset | outset
+      - border-width: length
+      - border-color: cor
+    - shorthand:
+      - direção
+        - border-top: solid 2px;
+      - style
+        - border: solid;
+      - width | style
+        - border: 2px dotted
+      - style | color
+        - border: outset #f33
+      - width | style | color
+        - border: medium dached green
+    - Outline: diferença
+      - Não modifica o tamanho da caixa, pois não é parte do Box Model;
+      - Não permite ajuste individual
+      - Mais usado para acessibilidade
   
 </details>
 
