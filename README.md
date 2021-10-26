@@ -28,6 +28,15 @@
       - margin: 12px(top) 10px(right-left) 0(bottom);
       - margin: 8px(top-bottom) 10px(right-left);
       - margin: 10px(todos lados)
+  - **Padding**
+    - propriedades: padding-top, padding-right, padding-bottom, padding-left
+    - valores: length, percentagem
+    - padding e a caixa: o padding pode aumentar o tamanho da caixa. (por padrão, box content)
+    - shorthand (agrupamento):
+      - padding: 12px(top) 12px(right) 0(bottom) 12px(left);
+      - padding: 12px(top) 10px(right-left) 0(bottom);
+      - padding: 8px(top-bottom) 10px(right-left);
+      - padding: 10px(todos lados)
 
   
 </details>
