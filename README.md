@@ -74,5 +74,16 @@
     - frameworks e grid systems
     - flexbox
     - grid
+  
+   - Position
+    - Static (por padrão, seguindo o fluxo da página)
+    - Relatice (elemento fica no lugar relativo a posição designada e tem o fluxo normal do scrool)
+      - propriedades: top | right | bottom | left | z-index
+    - Absolute (como se subisse uma camada, sendo absoluto em relação a página, mas se tiver um elemento pai relativo, ele será absosulto em relação a ele)
+      - propriedades: top | right | bottom | left | z-index
+    - fixed (o elemento fica fixo na pagina)
+    - Element Staking
+      - z-index: subindo uma camada
+  
 
 </details>
