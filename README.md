@@ -102,3 +102,13 @@
     - pode ser utilizado em conjunto com flexbox
   
 </details>
+
+<details>
+<summary>Alinhando os planetas</summary>
+
+  - Terminologia:
+    - container:
+    - nesting:
+    -
+  
+</details>
