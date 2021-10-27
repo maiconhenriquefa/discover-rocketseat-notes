@@ -9,6 +9,7 @@
     - No CSS seguimos um _Box model_ (modelo de caixa).
     - O _Box Sizing_ (Tamanho da caixa), por padrão, é _Box content_ (Conteúdo da caixa), ou seja, tamanho em relação ao conteúdo.
     - O _Border-box_ (Caixa pela borda), torna o tamanho da caixa medido pela borda e não mais pelo conteúdo.
+  
   - **Display-block-inline**
     - display-block: por padrão a maioria dos elementos.
       - Elementos um abaixo do outro
@@ -18,6 +19,7 @@
       - Elementos um ao lado do outro
       - Width e height NÃO são respeitados
       - Padding, margin, border funcionam somente na horizontal
+  
   - **Margin**
     - propriedades: margin-top, margin-right, margin-bottom, margin-left
     - valores: length, percentagem, auto
@@ -28,6 +30,7 @@
       - margin: 12px(top) 10px(right-left) 0(bottom);
       - margin: 8px(top-bottom) 10px(right-left);
       - margin: 10px(todos lados)
+  
   - **Padding**
     - propriedades: padding-top, padding-right, padding-bottom, padding-left
     - valores: length, percentagem
@@ -37,6 +40,7 @@
       - padding: 12px(top) 10px(right-left) 0(bottom);
       - padding: 8px(top-bottom) 10px(right-left);
       - padding: 10px(todos lados)
+  
   - **Border e outline**
     - valores:
       - border-style: solid | dotted | dashed | double | groove | ridge | inset | outset
@@ -64,6 +68,11 @@
 <details>
 <summary>Posicionando foguetes</summary>
 
-  
-  
+  - **Layouts** (história)
+    - tablets
+    - floats e clear
+    - frameworks e grid systems
+    - flexbox
+    - grid
+
 </details>
