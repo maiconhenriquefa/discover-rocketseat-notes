@@ -75,7 +75,7 @@
     - flexbox
     - grid
   
-   - Position
+   - **Position**
     - Static (por padrão, seguindo o fluxo da página)
     - Relatice (elemento fica no lugar relativo a posição designada e tem o fluxo normal do scrool)
       - propriedades: top | right | bottom | left | z-index
@@ -85,12 +85,12 @@
     - Element Staking
       - z-index: subindo uma camada
   
-  - Flexbox
+  - **Flexbox**
     - posicionamento | alinhamento | direcionamento | ordernação | tamanhos | dimensão
     - direcionamento: flex-direction -  direção do flex (horizontal-row | vertical-column)
     - alinhamento: justify-content(column) | align-itens(row)
   
-  - Grid
+  - **Grid**
     - posicionamento dos elementos dentro da caixa, igual o flexbox e diferente de block e inline
     - horizontal e vertical
     - flexível ou fico
