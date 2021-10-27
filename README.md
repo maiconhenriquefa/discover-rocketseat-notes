@@ -85,5 +85,20 @@
     - Element Staking
       - z-index: subindo uma camada
   
-
+  - Flexbox
+    - posicionamento | alinhamento | direcionamento | ordernação | tamanhos | dimensão
+    - direcionamento: flex-direction -  direção do flex (horizontal-row | vertical-column)
+    - alinhamento: justify-content(column) | align-itens(row)
+  
+  - Grid
+    - posicionamento dos elementos dentro da caixa, igual o flexbox e diferente de block e inline
+    - horizontal e vertical
+    - flexível ou fico
+    - cria espaços para os elementos filhos habitarem
+    - propriedades:
+      - grid-template-areas: areas no grid, quantas colunas e linhas (dinâmico)
+      - grid-template-columns: tamanhos das colunas (fr = fração restante)
+      - grid-template-rows: tamanho das linhas (fr = fração restante)
+    - pode ser utilizado em conjunto com flexbox
+  
 </details>
